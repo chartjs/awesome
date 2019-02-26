@@ -18,9 +18,16 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 
 ## Plugins
 
-- [annotation](https://github.com/chartjs/chartjs-plugin-annotation) - Draws lines and boxes on chart area.
+- [annotation](https://github.com/chartjs/chartjs-plugin-annotation) - Draws lines and boxes on the chart area.
+- [colorschemes](https://github.com/nagix/chartjs-plugin-colorschemes) - Enables automatic coloring using predefined color schemes.
+- [crosshair](https://github.com/abelheinsbroek/chartjs-plugin-crosshair) - Adds a data crosshair to line and scatter charts.
 - [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) - Displays labels on data for any type of charts.
 - [deferred](https://github.com/chartjs/chartjs-plugin-deferred) -  Defers initial chart update until chart scrolls into viewport.
+- [rough](https://github.com/nagix/chartjs-plugin-rough) - Draws charts in a sketchy, hand-drawn-like style using Rough.js.
+- [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) - Draws 100% stacked bar chart.
+- [streaming](https://github.com/nagix/chartjs-plugin-streaming) - Adds support for live streaming data.
+- [style](https://github.com/nagix/chartjs-plugin-style) - Provides styling options such as shadow, bevel, glow or overlay effects.
+- [waterfall](https://github.com/everestate/chartjs-plugin-waterfall) - Enables easy use of waterfall charts.
 - [zoom](https://github.com/chartjs/chartjs-plugin-zoom) - Enables zooming and panning on charts.
 
 In addition, many plugins can be found on the [npm registry](https://www.npmjs.com/search?q=chartjs-plugin-).
