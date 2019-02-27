@@ -36,3 +36,24 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 
 - [date-fns](https://github.com/chartjs/chartjs-adapter-date-fns) - date-fns date adapter.
 - [luxon](https://github.com/chartjs/chartjs-adapter-luxon) - Luxon date adapter.
+
+## Integrations
+
+### JavaScript
+
+- [angular-chart.js](https://github.com/jtblin/angular-chart.js) - Angular v1
+- [angular2-chartjs](https://github.com/emn178/angular2-chartjs) - Angular v2+
+- [ember-cli-chart](https://github.com/aomran/ember-cli-chart) - Ember CLI
+- [ng2-charts](https://github.com/valor-software/ng2-charts) - Angular v2+
+- [omi-chart](https://github.com/Tencent/omi/tree/master/packages/omi-chart) - Omi
+- [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) - React
+- [vue-chartjs](https://github.com/apertureless/vue-chartjs/) - Vue.js
+
+### Others
+
+- [charba](https://github.com/pepstock-org/Charba) - GWT
+- [chart.java](https://github.com/mdewilde/chart/) - Java
+- [chartjs-ror](https://github.com/airblade/chartjs-ror) - Ruby on Rails
+- [django-chartjs](https://github.com/peopledoc/django-chartjs) - Django
+- [laravel-chartjs](https://github.com/fxcosta/laravel-chartjs) - Laravel
+- [wicked-charts](https://github.com/adessoAG/wicked-charts) - Java
