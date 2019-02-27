@@ -6,6 +6,12 @@
 
 A curated list of awesome things related to [Chart.js](https://www.chartjs.org) v2+
 
+- [Resources](#resources)
+- [Charts](#charts)
+- [Plugins](#plugins)
+- [Adapters](#adapters)
+- [Integrations](#integrations)
+
 ## Resources
 
 - [Official Guide](https://chartjs.org/docs) - The user guide and documentation site.
