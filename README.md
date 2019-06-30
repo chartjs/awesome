@@ -19,6 +19,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 ## Charts
 
 - [bar-funnel](https://github.com/chartjs/Chart.BarFunnel.js) - Adds bar funnel chart type.
+- [boxplot](https://github.com/datavisyn/chartjs-chart-box-and-violin-plot) - Adds boxplot and violin plot chart type.
 - [financial](https://github.com/chartjs/chartjs-chart-financial) - Adds financial chart types such as a candlestick.
 - [smith](https://github.com/chartjs/Chart.smith.js) - Adds smith chart type.
 
@@ -35,6 +36,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 - [style](https://github.com/nagix/chartjs-plugin-style) - Provides styling options such as shadow, bevel, glow or overlay effects.
 - [waterfall](https://github.com/everestate/chartjs-plugin-waterfall) - Enables easy use of waterfall charts.
 - [zoom](https://github.com/chartjs/chartjs-plugin-zoom) - Enables zooming and panning on charts.
+
 
 In addition, many plugins can be found on the [npm registry](https://www.npmjs.com/search?q=chartjs-plugin-).
 
