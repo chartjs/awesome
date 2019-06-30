@@ -37,7 +37,6 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 - [waterfall](https://github.com/everestate/chartjs-plugin-waterfall) - Enables easy use of waterfall charts.
 - [zoom](https://github.com/chartjs/chartjs-plugin-zoom) - Enables zooming and panning on charts.
 
-
 In addition, many plugins can be found on the [npm registry](https://www.npmjs.com/search?q=chartjs-plugin-).
 
 ## Adapters
