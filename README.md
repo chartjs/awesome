@@ -29,6 +29,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 - [crosshair](https://github.com/abelheinsbroek/chartjs-plugin-crosshair) - Adds a data crosshair to line and scatter charts.
 - [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) - Displays labels on data for any type of charts.
 - [deferred](https://github.com/chartjs/chartjs-plugin-deferred) -  Defers initial chart update until chart scrolls into viewport.
+- [hierarchy](https://github.com/datavisyn/chartjs-scale-hierarchical) - Adds support for hierarchical categorical scales that can be collapsed, expanded, and focused.
 - [rough](https://github.com/nagix/chartjs-plugin-rough) - Draws charts in a sketchy, hand-drawn-like style using Rough.js.
 - [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) - Draws 100% stacked bar chart.
 - [streaming](https://github.com/nagix/chartjs-plugin-streaming) - Adds support for live streaming data.
