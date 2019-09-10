@@ -65,3 +65,4 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 - [django-chartjs](https://github.com/peopledoc/django-chartjs) - Django
 - [laravel-chartjs](https://github.com/fxcosta/laravel-chartjs) - Laravel
 - [wicked-charts](https://github.com/adessoAG/wicked-charts) - Java
+- [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) - OCaml
