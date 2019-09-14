@@ -51,7 +51,6 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 
 ### JavaScript
 
-- [angular-chart.js](https://github.com/jtblin/angular-chart.js) - Angular v1
 - [angular2-chartjs](https://github.com/emn178/angular2-chartjs) - Angular v2+
 - [ember-cli-chart](https://github.com/aomran/ember-cli-chart) - Ember CLI
 - [ng2-charts](https://github.com/valor-software/ng2-charts) - Angular v2+
