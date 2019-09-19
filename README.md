@@ -19,8 +19,11 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 ## Charts
 
 - [bar-funnel](https://github.com/chartjs/Chart.BarFunnel.js) - Adds bar funnel chart type.
+- [boxplot](https://github.com/datavisyn/chartjs-chart-box-and-violin-plot) - Adds boxplot and violin plot chart type.
 - [financial](https://github.com/chartjs/chartjs-chart-financial) - Adds financial chart types such as a candlestick.
+- [matrix](https://github.com/kurkle/chartjs-chart-matrix) - Adds matrix chart type.
 - [smith](https://github.com/chartjs/Chart.smith.js) - Adds smith chart type.
+- [treemap](https://github.com/kurkle/chartjs-chart-treemap) - Adds treemap chart type.
 
 ## Plugins
 
@@ -29,6 +32,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 - [crosshair](https://github.com/abelheinsbroek/chartjs-plugin-crosshair) - Adds a data crosshair to line and scatter charts.
 - [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) - Displays labels on data for any type of charts.
 - [deferred](https://github.com/chartjs/chartjs-plugin-deferred) -  Defers initial chart update until chart scrolls into viewport.
+- [dragdata](https://github.com/chrispahm/chartjs-plugin-dragdata) - Lets users drag data points on the chart.
 - [rough](https://github.com/nagix/chartjs-plugin-rough) - Draws charts in a sketchy, hand-drawn-like style using Rough.js.
 - [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) - Draws 100% stacked bar chart.
 - [streaming](https://github.com/nagix/chartjs-plugin-streaming) - Adds support for live streaming data.
@@ -47,7 +51,6 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 
 ### JavaScript
 
-- [angular-chart.js](https://github.com/jtblin/angular-chart.js) - Angular v1
 - [angular2-chartjs](https://github.com/emn178/angular2-chartjs) - Angular v2+
 - [ember-cli-chart](https://github.com/aomran/ember-cli-chart) - Ember CLI
 - [ng2-charts](https://github.com/valor-software/ng2-charts) - Angular v2+
