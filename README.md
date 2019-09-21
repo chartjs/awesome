@@ -21,6 +21,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 - [bar-funnel](https://github.com/chartjs/Chart.BarFunnel.js) - Adds bar funnel chart type.
 - [boxplot](https://github.com/datavisyn/chartjs-chart-box-and-violin-plot) - Adds boxplot and violin plot chart type.
 - [financial](https://github.com/chartjs/chartjs-chart-financial) - Adds financial chart types such as a candlestick.
+- [graph](https://github.com/sgratzl/chartjs-chart-graph) - Adds graph chart types such as a force directed graph.
 - [matrix](https://github.com/kurkle/chartjs-chart-matrix) - Adds matrix chart type.
 - [smith](https://github.com/chartjs/Chart.smith.js) - Adds smith chart type.
 - [treemap](https://github.com/kurkle/chartjs-chart-treemap) - Adds treemap chart type.
