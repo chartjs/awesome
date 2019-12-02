@@ -23,6 +23,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 - [error-bars](https://github.com/sgratzl/chartjs-chart-error-bars) - Adds diverse error bar variants of standard chart types.
 - [financial](https://github.com/chartjs/chartjs-chart-financial) - Adds financial chart types such as a candlestick.
 - [geo](https://github.com/sgratzl/chartjs-chart-geo) - Adds geographic map chart types such as choropleth and bubble map.
+- [graph](https://github.com/sgratzl/chartjs-chart-graph) - Adds graph chart types such as a force directed graph.
 - [matrix](https://github.com/kurkle/chartjs-chart-matrix) - Adds matrix chart type.
 - [smith](https://github.com/chartjs/Chart.smith.js) - Adds smith chart type.
 - [treemap](https://github.com/kurkle/chartjs-chart-treemap) - Adds treemap chart type.
