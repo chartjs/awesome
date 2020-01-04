@@ -45,10 +45,11 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 
 In addition, many plugins can be found on the [npm registry](https://www.npmjs.com/search?q=chartjs-plugin-).
 
-## Adapters
+## Datetime Adapters
 
-- [date-fns](https://github.com/chartjs/chartjs-adapter-date-fns) - date-fns date adapter.
-- [luxon](https://github.com/chartjs/chartjs-adapter-luxon) - Luxon date adapter.
+- [date-fns](https://github.com/chartjs/chartjs-adapter-date-fns) - date-fns adapter
+- [luxon](https://github.com/chartjs/chartjs-adapter-luxon) - Luxon adapter
+- [moment](https://github.com/chartjs/chartjs-adapter-moment) - Moment.js adapter
 
 ## Integrations
 
