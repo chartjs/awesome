@@ -46,7 +46,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 
 In addition, many plugins can be found on the [npm registry](https://www.npmjs.com/search?q=chartjs-plugin-).
 
-## Datetime Adapters
+## Adapters
 
 - [date-fns](https://github.com/chartjs/chartjs-adapter-date-fns) - date-fns adapter
 - [luxon](https://github.com/chartjs/chartjs-adapter-luxon) - Luxon adapter
