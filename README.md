@@ -24,8 +24,8 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 - [financial](https://github.com/chartjs/chartjs-chart-financial) - Adds financial chart types such as a candlestick.
 - [geo](https://github.com/sgratzl/chartjs-chart-geo) - Adds geographic map chart types such as choropleth and bubble map.
 - [graph](https://github.com/sgratzl/chartjs-chart-graph) - Adds graph chart types such as a force directed graph.
-- [pcp](https://github.com/sgratzl/chartjs-chart-pcp) - Adds parallel coordinates plot chart type.
 - [matrix](https://github.com/kurkle/chartjs-chart-matrix) - Adds matrix chart type.
+- [pcp](https://github.com/sgratzl/chartjs-chart-pcp) - Adds parallel coordinates plot chart type.
 - [smith](https://github.com/chartjs/Chart.smith.js) - Adds smith chart type.
 - [treemap](https://github.com/kurkle/chartjs-chart-treemap) - Adds treemap chart type.
 
