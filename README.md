@@ -26,6 +26,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 - [graph](https://github.com/sgratzl/chartjs-chart-graph) - Adds graph chart types such as a force directed graph.
 - [matrix](https://github.com/kurkle/chartjs-chart-matrix) - Adds matrix chart type.
 - [pcp](https://github.com/sgratzl/chartjs-chart-pcp) - Adds parallel coordinates plot chart type.
+- [sankey](https://github.com/kurkle/chartjs-chart-sankey) - Adds sankey diagram chart type.
 - [smith](https://github.com/chartjs/Chart.smith.js) - Adds smith chart type.
 - [treemap](https://github.com/kurkle/chartjs-chart-treemap) - Adds treemap chart type.
 
