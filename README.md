@@ -28,6 +28,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 - [pcp](https://github.com/sgratzl/chartjs-chart-pcp) - Adds parallel coordinates plot chart type.
 - [smith](https://github.com/chartjs/Chart.smith.js) - Adds smith chart type.
 - [treemap](https://github.com/kurkle/chartjs-chart-treemap) - Adds treemap chart type.
+- [venn](https://github.com/upsetjs/chartjs-chart-venn) - Adds venn and euler chart type.
 
 ## Plugins
 
