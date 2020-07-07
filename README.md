@@ -71,7 +71,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 - [chartjs-ror](https://github.com/airblade/chartjs-ror) - Ruby on Rails
 - [django-chartjs](https://github.com/peopledoc/django-chartjs) - Django
 - [laravel-chartjs](https://github.com/fxcosta/laravel-chartjs) - Laravel
+- [liquify](https://github.com/sakos95/liquify) - Fast, multi-threaded visualization of stream data with Angular
 - [nova-chartjs](https://github.com/coroo/nova-chartjs) - Laravel Nova
 - [quickchart](https://github.com/typpo/quickchart) - Web API for static charts
 - [wicked-charts](https://github.com/adessoAG/wicked-charts) - Java
-- [liquify](https://github.com/sakos95/liquify) - Fast, multi-threaded visualization of stream data with Angular
