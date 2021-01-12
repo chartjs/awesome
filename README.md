@@ -41,6 +41,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 - [deferred](https://github.com/chartjs/chartjs-plugin-deferred) -  Defers initial chart update until chart scrolls into viewport.
 - [dragdata](https://github.com/chrispahm/chartjs-plugin-dragdata) - Lets users drag data points on the chart.
 - [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) - Adds support for hierarchical categorical scales that can be collapsed, expanded, and focused.
+- [regression](https://github.com/pomgui/chartjs-plugin-regression) - Calculate and draw statistical linear, exponential, power, logarithmic, and polynomial regressions (trend lines)
 - [rough](https://github.com/nagix/chartjs-plugin-rough) - Draws charts in a sketchy, hand-drawn-like style using Rough.js.
 - [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) - Draws 100% stacked bar chart.
 - [streaming](https://github.com/nagix/chartjs-plugin-streaming) - Adds support for live streaming data.
