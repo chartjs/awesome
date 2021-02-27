@@ -19,7 +19,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org) 
 ## Charts
 
 - [bar-funnel](https://github.com/chartjs/Chart.BarFunnel.js) - Adds bar funnel chart type.
-- [boxplot](https://github.com/datavisyn/chartjs-chart-box-and-violin-plot) - Adds boxplot and violin plot chart type.
+- [boxplot](https://github.com/sgratzl/chartjs-chart-boxplot) - Adds boxplot and violin plot chart type.
 - [error-bars](https://github.com/sgratzl/chartjs-chart-error-bars) - Adds diverse error bar variants of standard chart types.
 - [financial](https://github.com/chartjs/chartjs-chart-financial) - Adds financial chart types such as a candlestick.
 - [geo](https://github.com/sgratzl/chartjs-chart-geo) - Adds geographic map chart types such as choropleth and bubble map.
