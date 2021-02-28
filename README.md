@@ -72,7 +72,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 
 ### Others
 
-- [charba](https://github.com/pepstock-org/Charba) - GWT
+- [charba](https://github.com/pepstock-org/Charba) - GWT/J2CL
 - [chart.java](https://github.com/mdewilde/chart/) - Java
 - [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) - OCaml
 - [chartjs-ror](https://github.com/airblade/chartjs-ror) - Ruby on Rails
