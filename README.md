@@ -4,7 +4,7 @@
 
 # Awesome Chart.js [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome things related to [Chart.js](https://www.chartjs.org) v2+
+A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 
 - [Resources](#resources)
 - [Charts](#charts)
