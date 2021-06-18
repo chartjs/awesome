@@ -11,6 +11,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 - [Plugins](#plugins)
 - [Adapters](#adapters)
 - [Integrations](#integrations)
+- [Other](#other)
 
 ## Resources
 
@@ -82,3 +83,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 - [nova-chartjs](https://github.com/coroo/nova-chartjs) - Laravel Nova
 - [quickchart](https://github.com/typpo/quickchart) - Web API for static charts
 - [wicked-charts](https://github.com/adessoAG/wicked-charts) - Java
+
+
+### Other
+ - [xdoc](https://github.com/nschloe/xdoc) - Browser extension for using Chart.js on GitHub
