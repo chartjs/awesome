@@ -40,7 +40,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   ---- | ----------- | :--: | :--:
   [annotation](https://github.com/chartjs/chartjs-plugin-annotation) | Draws lines and boxes on the chart area | ✔ | ✔
   [autocolors](https://github.com/kurkle/chartjs-plugin-autocolors) | Automatic color generation | | ✔
-  [colorschemes](https://github.com/nagix/chartjs-plugin-colorschemes) | Enables automatic coloring using predefined color schemes | ✔ | ✔
+  [colorschemes](https://github.com/nagix/chartjs-plugin-colorschemes) | Enables automatic coloring using predefined color schemes | ✔ | 
   [crosshair](https://github.com/abelheinsbroek/chartjs-plugin-crosshair) | Adds a data crosshair to line and scatter charts | ✔ | ✔
   [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) | Displays labels on data for any type of charts | ✔ | ✔
   [datasource-prometheus](https://github.com/samber/chartjs-plugin-datasource-prometheus) | Displays time-series from Prometheus | ✔ |
