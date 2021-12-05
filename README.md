@@ -45,6 +45,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   [datasource-prometheus](https://github.com/samber/chartjs-plugin-datasource-prometheus) | Displays time-series from Prometheus | ✔ |
   [deferred](https://github.com/chartjs/chartjs-plugin-deferred) | Defers initial chart update until chart scrolls into viewport | ✔ |
   [dragdata](https://github.com/chrispahm/chartjs-plugin-dragdata) | Lets users drag data points on the chart | ✔ | ✔
+  [gradient](https://github.com/kurkle/chartjs-plugin-gradient) | Easy gradients for Chart.js | | ✔
   [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) | Adds support for hierarchical categorical scales that can be collapsed, expanded, and focused | ✔ | ✔
   [regression](https://github.com/pomgui/chartjs-plugin-regression) | Calculate and draw statistical linear, exponential, power, logarithmic, and polynomial regressions (trend lines) | ✔ |
   [rough](https://github.com/nagix/chartjs-plugin-rough) | Draws charts in a sketchy, hand-drawn-like style using Rough.js | ✔ |
