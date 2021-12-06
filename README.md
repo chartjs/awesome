@@ -84,6 +84,5 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 - [quickchart](https://github.com/typpo/quickchart) - Web API for static charts
 - [wicked-charts](https://github.com/adessoAG/wicked-charts) - Java
 
-
-### Other
- - [xdoc](https://github.com/nschloe/xdoc) - Browser extension for using Chart.js on GitHub
+## Tools
+ - [xhub](https://github.com/nschloe/xhub) - Browser extension for using Chart.js (and other things) on GitHub
