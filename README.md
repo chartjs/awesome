@@ -11,7 +11,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 - [Plugins](#plugins)
 - [Adapters](#adapters)
 - [Integrations](#integrations)
-- [Other](#other)
+- [Tools](#tools)
 
 ## Resources
 
