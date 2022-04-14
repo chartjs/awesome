@@ -64,6 +64,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   Name | Description | Chart.js v2 | Chart.js v3
   ---- | ----------- | :--: | :--:
   [date-fns](https://github.com/chartjs/chartjs-adapter-date-fns) | date-fns adapter | ✔ | ✔
+  [Day.js](https://gitlab.com/mmillerbkg/chartjs-adapter-dayjs) | Day.js adapter | ✔ | ✔
   [luxon](https://github.com/chartjs/chartjs-adapter-luxon) | Luxon adapter | ✔ | ✔
   [moment](https://github.com/chartjs/chartjs-adapter-moment) | Moment.js adapter | ✔ | ✔
 
