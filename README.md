@@ -90,13 +90,13 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) | OCaml | ✔ |
   [chartjs-ror](https://github.com/airblade/chartjs-ror) | Ruby on Rails | ✔ |
   [django-chartjs](https://github.com/peopledoc/django-chartjs) | Django | ✔ |
+  [figma](https://www.figma.com/community/file/1111335120507995139) | Design components | ✔ | ✔ |
   [ipychart](https://github.com/nicohlr/ipychart) | Jupyter Notebook | ✔ |
   [laravel-chartjs](https://github.com/fxcosta/laravel-chartjs) | Laravel | ✔ |
   [liquify](https://github.com/sakos95/liquify) | Fast, multi-threaded visualization of stream data with Angular | ✔ |
   [nova-chartjs](https://github.com/coroo/nova-chartjs) | Laravel Nova | ✔ |
   [quickchart](https://github.com/typpo/quickchart) | Web API for static charts | ✔ | ✔
   [wicked-charts](https://github.com/adessoAG/wicked-charts) | Java | ✔ |
-  [figma](https://www.figma.com/community/file/1111335120507995139) | Design components | ✔ | ✔ |
 
 ## Tools
 
