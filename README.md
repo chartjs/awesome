@@ -96,6 +96,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   [nova-chartjs](https://github.com/coroo/nova-chartjs) | Laravel Nova | ✔ |
   [quickchart](https://github.com/typpo/quickchart) | Web API for static charts | ✔ | ✔
   [wicked-charts](https://github.com/adessoAG/wicked-charts) | Java | ✔ |
+  [figma](https://www.figma.com/community/file/1111335120507995139) | Design components | ✔ | ✔ |
 
 ## Tools
 
