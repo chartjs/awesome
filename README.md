@@ -78,6 +78,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   [ng2-charts](https://github.com/valor-software/ng2-charts) | Angular v2+ | ✔ | ✔
   [omi-chart](https://github.com/Tencent/omi/tree/master/components/chart) | Omi | ✔ | ✔
   [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) | React | ✔ | ✔
+  [svelte-chartjs](https://github.com/SauravKanchan/svelte-chartjs) | Svelte | | ✔
   [vue-chartjs](https://github.com/apertureless/vue-chartjs/) | Vue.js | ✔ | ✔
 
 ### Others
