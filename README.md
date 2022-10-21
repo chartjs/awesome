@@ -48,7 +48,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   [rough](https://github.com/nagix/chartjs-plugin-rough) | Draws charts in a sketchy, hand-drawn-like style using Rough.js | ✔ |
   [style](https://github.com/nagix/chartjs-plugin-style) | Provides styling options such as shadow, bevel, glow or overlay effects | ✔ |
 
-### Chart elements
+### Features
 
   Name | Description | Chart.js v2 | Chart.js v3
   ---- | ----------- | :--: | :--:
