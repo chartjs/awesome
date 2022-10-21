@@ -31,31 +31,48 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   [pcp](https://github.com/sgratzl/chartjs-chart-pcp) | Adds parallel coordinates plot chart type | ✔ | ✔
   [sankey](https://github.com/kurkle/chartjs-chart-sankey) | Adds sankey diagram chart type | | ✔
   [smith](https://github.com/chartjs/Chart.smith.js) | Adds smith chart type | ✔ |
+  [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) | Draws 100% stacked bar chart | ✔ | ✔
   [treemap](https://github.com/kurkle/chartjs-chart-treemap) | Adds treemap chart type | ✔ | ✔
   [venn](https://github.com/upsetjs/chartjs-chart-venn) | Adds venn and euler chart type | | ✔
   [word-cloud](https://github.com/sgratzl/chartjs-chart-wordcloud) | Adds word-cloud chart type | | ✔
 
 ## Plugins
 
+### Styling
+
+  Name | Description | Chart.js v2 | Chart.js v3
+  ---- | ----------- | :--: | :--:
+  [autocolors](https://github.com/kurkle/chartjs-plugin-autocolors) | Automatic color generation | | ✔
+  [colorschemes](https://github.com/nagix/chartjs-plugin-colorschemes) | Enables automatic coloring using predefined color schemes | ✔ | 
+  [gradient](https://github.com/kurkle/chartjs-plugin-gradient) | Easy gradients | | ✔
+  [rough](https://github.com/nagix/chartjs-plugin-rough) | Draws charts in a sketchy, hand-drawn-like style using Rough.js | ✔ |
+  [style](https://github.com/nagix/chartjs-plugin-style) | Provides styling options such as shadow, bevel, glow or overlay effects | ✔ |
+
+### Features
+
   Name | Description | Chart.js v2 | Chart.js v3
   ---- | ----------- | :--: | :--:
   [annotation](https://github.com/chartjs/chartjs-plugin-annotation) | Draws lines and boxes on the chart area | ✔ | ✔
-  [autocolors](https://github.com/kurkle/chartjs-plugin-autocolors) | Automatic color generation | | ✔
-  [colorschemes](https://github.com/nagix/chartjs-plugin-colorschemes) | Enables automatic coloring using predefined color schemes | ✔ | 
   [crosshair](https://github.com/abelheinsbroek/chartjs-plugin-crosshair) | Adds a data crosshair to line and scatter charts | ✔ | ✔
   [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) | Displays labels on data for any type of charts | ✔ | ✔
-  [datasource-prometheus](https://github.com/samber/chartjs-plugin-datasource-prometheus) | Displays time-series from Prometheus | ✔ |
-  [deferred](https://github.com/chartjs/chartjs-plugin-deferred) | Defers initial chart update until chart scrolls into viewport | ✔ | ✔
-  [dragdata](https://github.com/chrispahm/chartjs-plugin-dragdata) | Lets users drag data points on the chart | ✔ | ✔
-  [gradient](https://github.com/kurkle/chartjs-plugin-gradient) | Easy gradients | | ✔
   [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) | Adds support for hierarchical categorical scales that can be collapsed, expanded, and focused | ✔ | ✔
   [regression](https://github.com/pomgui/chartjs-plugin-regression) | Calculate and draw statistical linear, exponential, power, logarithmic, and polynomial regressions (trend lines) | ✔ |
-  [rough](https://github.com/nagix/chartjs-plugin-rough) | Draws charts in a sketchy, hand-drawn-like style using Rough.js | ✔ |
-  [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) | Draws 100% stacked bar chart | ✔ | ✔
-  [streaming](https://github.com/nagix/chartjs-plugin-streaming) | Adds support for live streaming data | ✔ | ✔
-  [style](https://github.com/nagix/chartjs-plugin-style) | Provides styling options such as shadow, bevel, glow or overlay effects | ✔ |
   [waterfall](https://github.com/everestate/chartjs-plugin-waterfall) | Enables easy use of waterfall charts | ✔ |
+
+### Interactions
+
+  Name | Description | Chart.js v2 | Chart.js v3
+  ---- | ----------- | :--: | :--:
+  [deferred](https://github.com/chartjs/chartjs-plugin-deferred) | Defers initial chart update until chart scrolls into viewport | ✔ | ✔
+  [dragdata](https://github.com/chrispahm/chartjs-plugin-dragdata) | Lets users drag data points on the chart | ✔ | ✔
   [zoom](https://github.com/chartjs/chartjs-plugin-zoom) | Enables zooming and panning on charts | ✔ | ✔
+
+### Data Sources
+
+  Name | Description | Chart.js v2 | Chart.js v3
+  ---- | ----------- | :--: | :--:
+  [datasource-prometheus](https://github.com/samber/chartjs-plugin-datasource-prometheus) | Displays time-series from Prometheus | ✔ |
+  [streaming](https://github.com/nagix/chartjs-plugin-streaming) | Adds support for live streaming data | ✔ | ✔
 
 In addition, many plugins can be found on the [npm registry](https://www.npmjs.com/search?q=chartjs-plugin-).
 
