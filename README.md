@@ -38,7 +38,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 
 ## Plugins
 
-### Colors and styles
+### Styling
 
   Name | Description | Chart.js v2 | Chart.js v3
   ---- | ----------- | :--: | :--:
@@ -67,7 +67,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   [dragdata](https://github.com/chrispahm/chartjs-plugin-dragdata) | Lets users drag data points on the chart | ✔ | ✔
   [zoom](https://github.com/chartjs/chartjs-plugin-zoom) | Enables zooming and panning on charts | ✔ | ✔
 
-### Data sources
+### Data Sources
 
   Name | Description | Chart.js v2 | Chart.js v3
   ---- | ----------- | :--: | :--:
