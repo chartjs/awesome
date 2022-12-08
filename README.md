@@ -92,8 +92,8 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   ---- | ----------- | :--
   [ember-cli-chart](https://github.com/aomran/ember-cli-chart) | Ember CLI | ![](https://img.shields.io/badge/-v2-yellow)
   [lwcc](https://github.com/SalesforceLabs/LightningWebChartJS) | Lightning Web Component | ![](https://img.shields.io/badge/-v2-yellow)
-  [ng2-charts](https://github.com/valor-software/ng2-charts) | Angular v2+ | ![](https://img.shields.io/badge/-v2-yellow)![](https://img.shields.io/badge/-v3-green)
-  [omi-chart](https://github.com/Tencent/omi/tree/master/components/chart) | Omi | ✔ | ✔
+  [ng2-charts](https://github.com/valor-software/ng2-charts) | Angular v2+ | ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green)
+  [omi-chart](https://github.com/Tencent/omi/tree/master/components/chart) | Omi | ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green)
   [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) | React | ✔ | ✔
   [svelte-chartjs](https://github.com/SauravKanchan/svelte-chartjs) | Svelte | | ✔
   [vue-chartjs](https://github.com/apertureless/vue-chartjs/) | Vue.js | ✔ | ✔
