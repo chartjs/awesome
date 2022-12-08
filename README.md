@@ -61,11 +61,11 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 
 ### Interactions
 
-  Name | Description | Chart.js v2 | Chart.js v3
-  ---- | ----------- | :--: | :--:
-  [deferred](https://github.com/chartjs/chartjs-plugin-deferred) | Defers initial chart update until chart scrolls into viewport | ✔ | ✔
-  [dragdata](https://github.com/chrispahm/chartjs-plugin-dragdata) | Lets users drag data points on the chart | ✔ | ✔
-  [zoom](https://github.com/chartjs/chartjs-plugin-zoom) | Enables zooming and panning on charts | ✔ | ✔
+  Support | Name | Description
+  -- | -- | --
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [deferred](https://github.com/chartjs/chartjs-plugin-deferred) | Defers initial chart update until chart scrolls into viewport
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [dragdata](https://github.com/chrispahm/chartjs-plugin-dragdata) | Lets users drag data points on the chart
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen) | [zoom](https://github.com/chartjs/chartjs-plugin-zoom) | Enables zooming and panning on charts
 
 ### Data Sources
 
