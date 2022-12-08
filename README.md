@@ -95,7 +95,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   [ng2-charts](https://github.com/valor-software/ng2-charts) | Angular v2+ | ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen)
   [omi-chart](https://github.com/Tencent/omi/tree/master/components/chart) | Omi | ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green)
   [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) | React | ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen)
-  [svelte-chartjs](https://github.com/SauravKanchan/svelte-chartjs) | Svelte | ![](https://img.shields.io/badge/-v2-white) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen)
+  [svelte-chartjs](https://github.com/SauravKanchan/svelte-chartjs) | Svelte | ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen)
   [vue-chartjs](https://github.com/apertureless/vue-chartjs/) | Vue.js | ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen)
 
 ### Others
