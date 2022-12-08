@@ -80,9 +80,9 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 
   Support | Name | Description
   -- | -- | --
-  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [date-fns](https://github.com/chartjs/chartjs-adapter-date-fns) | date-fns adapter
-  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [luxon](https://github.com/chartjs/chartjs-adapter-luxon) | Luxon adapter
-  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [moment](https://github.com/chartjs/chartjs-adapter-moment) | Moment.js adapter
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen) | [date-fns](https://github.com/chartjs/chartjs-adapter-date-fns) | date-fns adapter
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen) | [luxon](https://github.com/chartjs/chartjs-adapter-luxon) | Luxon adapter
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen) | [moment](https://github.com/chartjs/chartjs-adapter-moment) | Moment.js adapter
 
 ## Integrations
 
