@@ -25,11 +25,11 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [boxplot](https://github.com/sgratzl/chartjs-chart-boxplot) | Adds boxplot and violin plot chart type
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [error-bars](https://github.com/sgratzl/chartjs-chart-error-bars) | Adds diverse error bar variants of standard chart types
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [financial](https://github.com/chartjs/chartjs-chart-financial) | Adds financial chart types such as a candlestick
-  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [geo](https://github.com/sgratzl/chartjs-chart-geo) | Adds geographic map chart types such as choropleth and bubble map
-  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [graph](https://github.com/sgratzl/chartjs-chart-graph) | Adds graph chart types such as a force directed graph
-  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [matrix](https://github.com/kurkle/chartjs-chart-matrix) | Adds matrix chart type
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen) | [geo](https://github.com/sgratzl/chartjs-chart-geo) | Adds geographic map chart types such as choropleth and bubble map
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen) | [graph](https://github.com/sgratzl/chartjs-chart-graph) | Adds graph chart types such as a force directed graph
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen) | [matrix](https://github.com/kurkle/chartjs-chart-matrix) | Adds matrix chart type
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [pcp](https://github.com/sgratzl/chartjs-chart-pcp) | Adds parallel coordinates plot chart type
-  ![](https://img.shields.io/badge/-v3-green) | [sankey](https://github.com/kurkle/chartjs-chart-sankey) | Adds sankey diagram chart type
+  ![](https://img.shields.io/badge/-v3-green) | [sankey](https://github.com/kurkle/chartjs-chart-sankey) ![](https://img.shields.io/badge/-v4-brightgreen) | Adds sankey diagram chart type
   ![](https://img.shields.io/badge/-v2-yellow) | [smith](https://github.com/chartjs/Chart.smith.js) | Adds smith chart type
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) | Draws 100% stacked bar chart
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [treemap](https://github.com/kurkle/chartjs-chart-treemap) | Adds treemap chart type
