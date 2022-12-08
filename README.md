@@ -29,7 +29,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen) | [graph](https://github.com/sgratzl/chartjs-chart-graph) | Adds graph chart types such as a force directed graph
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen) | [matrix](https://github.com/kurkle/chartjs-chart-matrix) | Adds matrix chart type
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [pcp](https://github.com/sgratzl/chartjs-chart-pcp) | Adds parallel coordinates plot chart type
-  ![](https://img.shields.io/badge/-v3-green) | [sankey](https://github.com/kurkle/chartjs-chart-sankey) ![](https://img.shields.io/badge/-v4-brightgreen) | Adds sankey diagram chart type
+  ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen) | [sankey](https://github.com/kurkle/chartjs-chart-sankey) | Adds sankey diagram chart type
   ![](https://img.shields.io/badge/-v2-yellow) | [smith](https://github.com/chartjs/Chart.smith.js) | Adds smith chart type
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) | Draws 100% stacked bar chart
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [treemap](https://github.com/kurkle/chartjs-chart-treemap) | Adds treemap chart type
