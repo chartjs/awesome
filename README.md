@@ -50,14 +50,14 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 
 ### Features
 
-  Name | Description | Chart.js v2 | Chart.js v3
-  ---- | ----------- | :--: | :--:
-  [annotation](https://github.com/chartjs/chartjs-plugin-annotation) | Draws lines and boxes on the chart area | ✔ | ✔
-  [crosshair](https://github.com/abelheinsbroek/chartjs-plugin-crosshair) | Adds a data crosshair to line and scatter charts | ✔ | ✔
-  [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) | Displays labels on data for any type of charts | ✔ | ✔
-  [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) | Adds support for hierarchical categorical scales that can be collapsed, expanded, and focused | ✔ | ✔
-  [regression](https://github.com/pomgui/chartjs-plugin-regression) | Calculate and draw statistical linear, exponential, power, logarithmic, and polynomial regressions (trend lines) | ✔ |
-  [waterfall](https://github.com/everestate/chartjs-plugin-waterfall) | Enables easy use of waterfall charts | ✔ |
+  Support | Name | Description
+  -- | -- | --
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [annotation](https://github.com/chartjs/chartjs-plugin-annotation) | Draws lines and boxes on the chart area
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [crosshair](https://github.com/abelheinsbroek/chartjs-plugin-crosshair) | Adds a data crosshair to line and scatter charts
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) | Displays labels on data for any type of charts
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) | Adds support for hierarchical categorical scales that can be collapsed, expanded, and focused
+  ![](https://img.shields.io/badge/-v2-yellow) | [regression](https://github.com/pomgui/chartjs-plugin-regression) | Calculate and draw statistical linear, exponential, power, logarithmic, and polynomial regressions (trend lines)
+  ![](https://img.shields.io/badge/-v2-yellow) | [waterfall](https://github.com/everestate/chartjs-plugin-waterfall) | Enables easy use of waterfall charts
 
 ### Interactions
 
