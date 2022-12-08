@@ -88,11 +88,11 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 
 ### JavaScript
 
-  Name | Description | Compatibility | Chart.js v3
-  ---- | ----------- | :-- | :--:
-  [ember-cli-chart](https://github.com/aomran/ember-cli-chart) | Ember CLI | ![](https://img.shields.io/badge/Chart.js-v2-yellow) |
-  [lwcc](https://github.com/SalesforceLabs/LightningWebChartJS) | Lightning Web Component | ✔ |
-  [ng2-charts](https://github.com/valor-software/ng2-charts) | Angular v2+ | ✔ | ✔
+  Name | Description | Compatibility
+  ---- | ----------- | :--
+  [ember-cli-chart](https://github.com/aomran/ember-cli-chart) | Ember CLI | ![](https://img.shields.io/badge/-v2-yellow)
+  [lwcc](https://github.com/SalesforceLabs/LightningWebChartJS) | Lightning Web Component | ![](https://img.shields.io/badge/-v2-yellow)
+  [ng2-charts](https://github.com/valor-software/ng2-charts) | Angular v2+ | ![](https://img.shields.io/badge/-v2-yellow)![](https://img.shields.io/badge/-v3-green)
   [omi-chart](https://github.com/Tencent/omi/tree/master/components/chart) | Omi | ✔ | ✔
   [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) | React | ✔ | ✔
   [svelte-chartjs](https://github.com/SauravKanchan/svelte-chartjs) | Svelte | | ✔
