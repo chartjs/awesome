@@ -118,6 +118,6 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 
 ## Tools
 
-  Name | Description | Chart.js v2 | Chart.js v3
-  ---- | ----------- | :--: | :--:
-  [xhub](https://github.com/nschloe/xhub) | Browser extension for Chart.js (and more) on GitHub pages | | ✔ |
+  Support | Name | Description
+  -- | -- | --
+  ![](https://img.shields.io/badge/-v3-green) | [xhub](https://github.com/nschloe/xhub) | Browser extension for Chart.js (and more) on GitHub pages
