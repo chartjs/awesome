@@ -69,10 +69,10 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 
 ### Data Sources
 
-  Name | Description | Chart.js v2 | Chart.js v3
-  ---- | ----------- | :--: | :--:
-  [datasource-prometheus](https://github.com/samber/chartjs-plugin-datasource-prometheus) | Displays time-series from Prometheus | ✔ |
-  [streaming](https://github.com/nagix/chartjs-plugin-streaming) | Adds support for live streaming data | ✔ | ✔
+  Support | Name | Description
+  -- | -- | --
+  ![](https://img.shields.io/badge/-v2-yellow) | [datasource-prometheus](https://github.com/samber/chartjs-plugin-datasource-prometheus) | Displays time-series from Prometheus
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [streaming](https://github.com/nagix/chartjs-plugin-streaming) | Adds support for live streaming data
 
 In addition, many plugins can be found on the [npm registry](https://www.npmjs.com/search?q=chartjs-plugin-).
 
