@@ -89,7 +89,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 ### JavaScript
 
   Name | Description | Compatibility | Chart.js v3
-  ---- | ----------- | :--: | :--:
+  ---- | ----------- | :-- | :--:
   [ember-cli-chart](https://github.com/aomran/ember-cli-chart) | Ember CLI | ![](https://img.shields.io/badge/Chart.js-v2-yellow) |
   [lwcc](https://github.com/SalesforceLabs/LightningWebChartJS) | Lightning Web Component | ✔ |
   [ng2-charts](https://github.com/valor-software/ng2-charts) | Angular v2+ | ✔ | ✔
