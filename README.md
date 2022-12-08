@@ -108,7 +108,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   ![](https://img.shields.io/badge/-v2-yellow) | [chartjs-ror](https://github.com/airblade/chartjs-ror) | Ruby on Rails
   ![](https://img.shields.io/badge/-v3-green) | [chart-js-rs](https://github.com/Billy-Sheppard/chart-js-rs) | Chart.js types API in Rust (WIP in Alpha/incomplete)
   ![](https://img.shields.io/badge/-v2-yellow) | [django-chartjs](https://github.com/peopledoc/django-chartjs) | Django
-  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [figma](https://www.figma.com/community/file/1111335120507995139) | Design components
+  — | [figma](https://www.figma.com/community/file/1111335120507995139) | Design components
   ![](https://img.shields.io/badge/-v2-yellow) | [ipychart](https://github.com/nicohlr/ipychart) | Jupyter Notebook
   ![](https://img.shields.io/badge/-v2-yellow) | [laravel-chartjs](https://github.com/fxcosta/laravel-chartjs) | Laravel
   ![](https://img.shields.io/badge/-v2-yellow) | [liquify](https://github.com/sakos95/liquify) | Fast, multi-threaded visualization of stream data with Angular
