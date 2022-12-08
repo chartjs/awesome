@@ -88,7 +88,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 
 ### JavaScript
 
-  Compatibility | Name | Description
+  Support | Name | Description
   -- | -- | --
   ![](https://img.shields.io/badge/-v2-yellow) | [ember-cli-chart](https://github.com/aomran/ember-cli-chart) | Ember CLI
   ![](https://img.shields.io/badge/-v2-yellow) | [lwcc](https://github.com/SalesforceLabs/LightningWebChartJS) | Lightning Web Component
@@ -100,21 +100,21 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 
 ### Others
 
-  Name | Description | Chart.js v2 | Chart.js v3
-  ---- | ----------- | :--: | :--:
-  [charba](https://github.com/pepstock-org/Charba) | GWT/J2CL | ✔ | ✔
-  [chart.java](https://github.com/mdewilde/chart/) | Java | ✔ |
-  [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) | OCaml | ✔ |
-  [chartjs-ror](https://github.com/airblade/chartjs-ror) | Ruby on Rails | ✔ |
-  [chart-js-rs](https://github.com/Billy-Sheppard/chart-js-rs) | Chart.js types API in Rust (WIP in Alpha/incomplete) | | ✔
-  [django-chartjs](https://github.com/peopledoc/django-chartjs) | Django | ✔ |
-  [figma](https://www.figma.com/community/file/1111335120507995139) | Design components | ✔ | ✔ |
-  [ipychart](https://github.com/nicohlr/ipychart) | Jupyter Notebook | ✔ |
-  [laravel-chartjs](https://github.com/fxcosta/laravel-chartjs) | Laravel | ✔ |
-  [liquify](https://github.com/sakos95/liquify) | Fast, multi-threaded visualization of stream data with Angular | ✔ |
-  [nova-chartjs](https://github.com/coroo/nova-chartjs) | Laravel Nova | ✔ |
-  [quickchart](https://github.com/typpo/quickchart) | Web API for static charts | ✔ | ✔
-  [wicked-charts](https://github.com/adessoAG/wicked-charts) | Java | ✔ |
+  Support | Name | Description
+  -- | -- | --
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [charba](https://github.com/pepstock-org/Charba) | GWT/J2CL
+  ![](https://img.shields.io/badge/-v2-yellow) | [chart.java](https://github.com/mdewilde/chart/) | Java
+  ![](https://img.shields.io/badge/-v2-yellow) | [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) | OCaml
+  ![](https://img.shields.io/badge/-v2-yellow) | [chartjs-ror](https://github.com/airblade/chartjs-ror) | Ruby on Rails
+  ![](https://img.shields.io/badge/-v3-green) | [chart-js-rs](https://github.com/Billy-Sheppard/chart-js-rs) | Chart.js types API in Rust (WIP in Alpha/incomplete)
+  ![](https://img.shields.io/badge/-v2-yellow) | [django-chartjs](https://github.com/peopledoc/django-chartjs) | Django
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [figma](https://www.figma.com/community/file/1111335120507995139) | Design components
+  ![](https://img.shields.io/badge/-v2-yellow) | [ipychart](https://github.com/nicohlr/ipychart) | Jupyter Notebook
+  ![](https://img.shields.io/badge/-v2-yellow) | [laravel-chartjs](https://github.com/fxcosta/laravel-chartjs) | Laravel
+  ![](https://img.shields.io/badge/-v2-yellow) | [liquify](https://github.com/sakos95/liquify) | Fast, multi-threaded visualization of stream data with Angular
+  ![](https://img.shields.io/badge/-v2-yellow) | [nova-chartjs](https://github.com/coroo/nova-chartjs) | Laravel Nova
+  ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [quickchart](https://github.com/typpo/quickchart) | Web API for static charts
+  ![](https://img.shields.io/badge/-v2-yellow) | [wicked-charts](https://github.com/adessoAG/wicked-charts)
 
 ## Tools
 
