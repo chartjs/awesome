@@ -13,6 +13,13 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 - [Integrations](#integrations)
 - [Tools](#tools)
 
+**A note on Chart.js support.** There are three major Chart.js versions currently in use:
+* ![](https://img.shields.io/badge/-v4-brightgreen) (released in November 2022)
+* ![](https://img.shields.io/badge/-v3-green) (released in April 2021)
+* ![](https://img.shields.io/badge/-v2-yellow) (released in April 2016)
+
+Please refer to version badges below to make sure that a library supports your version of Chart.js.
+
 ## Resources
 
 - [Official Guide](https://chartjs.org/docs) | The user guide and documentation site.
