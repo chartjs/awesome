@@ -40,13 +40,13 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 
 ### Styling
 
-  Name | Description | Chart.js v2 | Chart.js v3
-  ---- | ----------- | :--: | :--:
-  [autocolors](https://github.com/kurkle/chartjs-plugin-autocolors) | Automatic color generation | | ✔
-  [colorschemes](https://github.com/nagix/chartjs-plugin-colorschemes) | Enables automatic coloring using predefined color schemes | ✔ | 
-  [gradient](https://github.com/kurkle/chartjs-plugin-gradient) | Easy gradients | | ✔
-  [rough](https://github.com/nagix/chartjs-plugin-rough) | Draws charts in a sketchy, hand-drawn-like style using Rough.js | ✔ |
-  [style](https://github.com/nagix/chartjs-plugin-style) | Provides styling options such as shadow, bevel, glow or overlay effects | ✔ |
+  Support | Name | Description
+  -- | -- | --
+  ![](https://img.shields.io/badge/-v3-green) | [autocolors](https://github.com/kurkle/chartjs-plugin-autocolors) | Automatic color generation
+  ![](https://img.shields.io/badge/-v2-yellow) | [colorschemes](https://github.com/nagix/chartjs-plugin-colorschemes) | Enables automatic coloring using predefined color schemes
+  ![](https://img.shields.io/badge/-v3-green) | [gradient](https://github.com/kurkle/chartjs-plugin-gradient) | Easy gradients
+  ![](https://img.shields.io/badge/-v2-yellow) | [rough](https://github.com/nagix/chartjs-plugin-rough) | Draws charts in a sketchy, hand-drawn-like style using Rough.js
+  ![](https://img.shields.io/badge/-v2-yellow) | [style](https://github.com/nagix/chartjs-plugin-style) | Provides styling options such as shadow, bevel, glow or overlay effects
 
 ### Features
 
