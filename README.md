@@ -54,7 +54,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   -- | -- | --
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) ![](https://img.shields.io/badge/-v4-brightgreen) | [annotation](https://github.com/chartjs/chartjs-plugin-annotation) | Draws lines and boxes on the chart area
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [crosshair](https://github.com/abelheinsbroek/chartjs-plugin-crosshair) | Adds a data crosshair to line and scatter charts
-  ![](https://img.shields.io/badge/-v2-yellow)&nbsp;![](https://img.shields.io/badge/-v3-green)&nbsp;![](https://img.shields.io/badge/-v4-brightgreen) | [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) | Displays labels on data for any type of charts
+  ![](https://img.shields.io/badge/-v2-yellow)![](https://img.shields.io/badge/-v3-green)![](https://img.shields.io/badge/-v4-brightgreen) | [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) | Displays labels on data for any type of charts
   ![](https://img.shields.io/badge/-v2-yellow) ![](https://img.shields.io/badge/-v3-green) | [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) | Adds support for hierarchical categorical scales that can be collapsed, expanded, and focused
   ![](https://img.shields.io/badge/-v2-yellow) | [regression](https://github.com/pomgui/chartjs-plugin-regression) | Calculate and draw statistical linear, exponential, power, logarithmic, and polynomial regressions (trend lines)
   ![](https://img.shields.io/badge/-v2-yellow) | [waterfall](https://github.com/everestate/chartjs-plugin-waterfall) | Enables easy use of waterfall charts
