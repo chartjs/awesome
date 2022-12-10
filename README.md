@@ -38,7 +38,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   ❕ 3️⃣ 4️⃣ | [sankey](https://github.com/kurkle/chartjs-chart-sankey) | Adds sankey diagram chart type
   2️⃣ ❕ ❕ | [smith](https://github.com/chartjs/Chart.smith.js) | Adds smith chart type
   2️⃣ 3️⃣ ❕ | [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) | Draws 100% stacked bar chart
-  2️⃣ 3️⃣ ❕ | [treemap](https://github.com/kurkle/chartjs-chart-treemap) | Adds treemap chart type
+  2️⃣ 3️⃣ 4️⃣ | [treemap](https://github.com/kurkle/chartjs-chart-treemap) | Adds treemap chart type
   ❕ 3️⃣ ❕ | [venn](https://github.com/upsetjs/chartjs-chart-venn) | Adds venn and euler chart type
   ❕ 3️⃣ ❕ | [word-cloud](https://github.com/sgratzl/chartjs-chart-wordcloud) | Adds word-cloud chart type
 
@@ -48,9 +48,9 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 
   Support | Name | Description
   -- | -- | --
-  ❕ 3️⃣ ❕ | [autocolors](https://github.com/kurkle/chartjs-plugin-autocolors) | Automatic color generation
+  ❕ 3️⃣ 4️⃣ | [autocolors](https://github.com/kurkle/chartjs-plugin-autocolors) | Automatic color generation
   2️⃣ ❕ ❕ | [colorschemes](https://github.com/nagix/chartjs-plugin-colorschemes) | Enables automatic coloring using predefined color schemes
-  ❕ 3️⃣ ❕ | [gradient](https://github.com/kurkle/chartjs-plugin-gradient) | Easy gradients
+  ❕ 3️⃣ 4️⃣ | [gradient](https://github.com/kurkle/chartjs-plugin-gradient) | Easy gradients
   2️⃣ ❕ ❕ | [rough](https://github.com/nagix/chartjs-plugin-rough) | Draws charts in a sketchy, hand-drawn-like style using Rough.js
   2️⃣ ❕ ❕ | [style](https://github.com/nagix/chartjs-plugin-style) | Provides styling options such as shadow, bevel, glow or overlay effects
 
