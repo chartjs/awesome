@@ -37,8 +37,8 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   2️⃣ 3️⃣ ❕ | [pcp](https://github.com/sgratzl/chartjs-chart-pcp) | Adds parallel coordinates plot chart type
   ❕ 3️⃣ 4️⃣ | [sankey](https://github.com/kurkle/chartjs-chart-sankey) | Adds sankey diagram chart type
   2️⃣ ❕ ❕ | [smith](https://github.com/chartjs/Chart.smith.js) | Adds smith chart type
-  2️⃣ 3️⃣ ❕ | [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) | Draws 100% stacked bar chart
-  2️⃣ 3️⃣ ❕ | [treemap](https://github.com/kurkle/chartjs-chart-treemap) | Adds treemap chart type
+  2️⃣ 3️⃣ 4️⃣ | [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) | Draws 100% stacked bar chart
+  2️⃣ 3️⃣ 4️⃣ | [treemap](https://github.com/kurkle/chartjs-chart-treemap) | Adds treemap chart type
   ❕ 3️⃣ ❕ | [venn](https://github.com/upsetjs/chartjs-chart-venn) | Adds venn and euler chart type
   ❕ 3️⃣ ❕ | [word-cloud](https://github.com/sgratzl/chartjs-chart-wordcloud) | Adds word-cloud chart type
 
@@ -48,9 +48,9 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 
   Support | Name | Description
   -- | -- | --
-  ❕ 3️⃣ ❕ | [autocolors](https://github.com/kurkle/chartjs-plugin-autocolors) | Automatic color generation
+  ❕ 3️⃣ 4️⃣ | [autocolors](https://github.com/kurkle/chartjs-plugin-autocolors) | Automatic color generation
   2️⃣ ❕ ❕ | [colorschemes](https://github.com/nagix/chartjs-plugin-colorschemes) | Enables automatic coloring using predefined color schemes
-  ❕ 3️⃣ ❕ | [gradient](https://github.com/kurkle/chartjs-plugin-gradient) | Easy gradients
+  ❕ 3️⃣ 4️⃣ | [gradient](https://github.com/kurkle/chartjs-plugin-gradient) | Easy gradients
   2️⃣ ❕ ❕ | [rough](https://github.com/nagix/chartjs-plugin-rough) | Draws charts in a sketchy, hand-drawn-like style using Rough.js
   2️⃣ ❕ ❕ | [style](https://github.com/nagix/chartjs-plugin-style) | Provides styling options such as shadow, bevel, glow or overlay effects
 
@@ -112,7 +112,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   2️⃣ ❕ ❕ | [chart.java](https://github.com/mdewilde/chart/) | Java
   2️⃣ ❕ ❕ | [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) | OCaml
   2️⃣ ❕ ❕ | [chartjs-ror](https://github.com/airblade/chartjs-ror) | Ruby on Rails
-  3️⃣ ❕ ❕ | [chart-js-rs](https://github.com/Billy-Sheppard/chart-js-rs) | Chart.js types API in Rust (WIP in Alpha/incomplete)
+  ❕ 3️⃣ 4️⃣ | [chart-js-rs](https://github.com/Billy-Sheppard/chart-js-rs) | Chart.js types API in Rust (WIP in Alpha/incomplete)
   2️⃣ ❕ ❕ | [django-chartjs](https://github.com/peopledoc/django-chartjs) | Django
   &nbsp; | [figma](https://www.figma.com/community/file/1111335120507995139) | Design components
   2️⃣ ❕ ❕ | [ipychart](https://github.com/nicohlr/ipychart) | Jupyter Notebook
