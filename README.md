@@ -108,7 +108,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 
   Support | Name | Description
   -- | -- | --
-   ! 3️⃣ ❕ | [ChartJs for Blazor](https://github.com/erossini/BlazorChartjs) | Blazor component to use ChartJs in Blazor applications
+  ❕ 3️⃣ ❕ | [BlazorChartjs](https://github.com/erossini/BlazorChartjs) | Blazor
   2️⃣ 3️⃣ ❕ | [charba](https://github.com/pepstock-org/Charba) | GWT/J2CL
   2️⃣ ❕ ❕ | [chart.java](https://github.com/mdewilde/chart/) | Java
   2️⃣ ❕ ❕ | [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) | OCaml
