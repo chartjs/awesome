@@ -28,19 +28,19 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   Support | Name | Description
   -- | -- | --
   2️⃣ ❕ ❕ | [bar-funnel](https://github.com/chartjs/Chart.BarFunnel.js) | Adds bar funnel chart type
-  2️⃣ 3️⃣ ❕ | [boxplot](https://github.com/sgratzl/chartjs-chart-boxplot) | Adds boxplot and violin plot chart type
-  2️⃣ 3️⃣ ❕ | [error-bars](https://github.com/sgratzl/chartjs-chart-error-bars) | Adds diverse error bar variants of standard chart types
+  2️⃣ 3️⃣ 4️⃣ | [boxplot](https://github.com/sgratzl/chartjs-chart-boxplot) | Adds boxplot and violin plot chart type
+  2️⃣ 3️⃣ 4️⃣ | [error-bars](https://github.com/sgratzl/chartjs-chart-error-bars) | Adds diverse error bar variants of standard chart types
   2️⃣ 3️⃣ ❕ | [financial](https://github.com/chartjs/chartjs-chart-financial) | Adds financial chart types such as a candlestick
   2️⃣ 3️⃣ 4️⃣ | [geo](https://github.com/sgratzl/chartjs-chart-geo) | Adds geographic map chart types such as choropleth and bubble map
   2️⃣ 3️⃣ 4️⃣ | [graph](https://github.com/sgratzl/chartjs-chart-graph) | Adds graph chart types such as a force directed graph
   2️⃣ 3️⃣ 4️⃣ | [matrix](https://github.com/kurkle/chartjs-chart-matrix) | Adds matrix chart type
-  2️⃣ 3️⃣ ❕ | [pcp](https://github.com/sgratzl/chartjs-chart-pcp) | Adds parallel coordinates plot chart type
+  2️⃣ 3️⃣ 4️⃣ | [pcp](https://github.com/sgratzl/chartjs-chart-pcp) | Adds parallel coordinates plot chart type
   ❕ 3️⃣ 4️⃣ | [sankey](https://github.com/kurkle/chartjs-chart-sankey) | Adds sankey diagram chart type
   2️⃣ ❕ ❕ | [smith](https://github.com/chartjs/Chart.smith.js) | Adds smith chart type
-  2️⃣ 3️⃣ ❕ | [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) | Draws 100% stacked bar chart
+  2️⃣ 3️⃣ 4️⃣ | [stacked100](https://github.com/y-takey/chartjs-plugin-stacked100) | Draws 100% stacked bar chart
   2️⃣ 3️⃣ 4️⃣ | [treemap](https://github.com/kurkle/chartjs-chart-treemap) | Adds treemap chart type
-  ❕ 3️⃣ ❕ | [venn](https://github.com/upsetjs/chartjs-chart-venn) | Adds venn and euler chart type
-  ❕ 3️⃣ ❕ | [word-cloud](https://github.com/sgratzl/chartjs-chart-wordcloud) | Adds word-cloud chart type
+  ❕ 3️⃣ 4️⃣ | [venn](https://github.com/upsetjs/chartjs-chart-venn) | Adds venn and euler chart type
+  ❕ 3️⃣ 4️⃣ | [word-cloud](https://github.com/sgratzl/chartjs-chart-wordcloud) | Adds word-cloud chart type
 
 ## Plugins
 
@@ -61,7 +61,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   2️⃣ 3️⃣ 4️⃣ | [annotation](https://github.com/chartjs/chartjs-plugin-annotation) | Draws lines and boxes on the chart area
   2️⃣ 3️⃣ ❕ | [crosshair](https://github.com/abelheinsbroek/chartjs-plugin-crosshair) | Adds a data crosshair to line and scatter charts
   2️⃣ 3️⃣ 4️⃣ | [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) | Displays labels on data for any type of charts
-  2️⃣ 3️⃣ ❕ | [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) | Adds hierarchical scales that can be collapsed, expanded, and focused
+  2️⃣ 3️⃣ 4️⃣ | [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) | Adds hierarchical scales that can be collapsed, expanded, and focused
   2️⃣ ❕ ❕ | [regression](https://github.com/pomgui/chartjs-plugin-regression) | Calculate and draw statistical regressions (trend lines)
   2️⃣ ❕ ❕ | [waterfall](https://github.com/everestate/chartjs-plugin-waterfall) | Enables easy use of waterfall charts
 
@@ -112,7 +112,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   2️⃣ ❕ ❕ | [chart.java](https://github.com/mdewilde/chart/) | Java
   2️⃣ ❕ ❕ | [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) | OCaml
   2️⃣ ❕ ❕ | [chartjs-ror](https://github.com/airblade/chartjs-ror) | Ruby on Rails
-  3️⃣ ❕ ❕ | [chart-js-rs](https://github.com/Billy-Sheppard/chart-js-rs) | Chart.js types API in Rust (WIP in Alpha/incomplete)
+  ❕ 3️⃣ 4️⃣ | [chart-js-rs](https://github.com/Billy-Sheppard/chart-js-rs) | Chart.js types API in Rust (WIP in Alpha/incomplete)
   2️⃣ ❕ ❕ | [django-chartjs](https://github.com/peopledoc/django-chartjs) | Django
   &nbsp; | [figma](https://www.figma.com/community/file/1111335120507995139) | Design components
   2️⃣ ❕ ❕ | [ipychart](https://github.com/nicohlr/ipychart) | Jupyter Notebook
