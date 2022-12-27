@@ -109,7 +109,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   Support | Name | Description
   -- | -- | --
   ❕ 3️⃣ ❕ | [BlazorChartjs](https://github.com/erossini/BlazorChartjs) | Blazor
-  2️⃣ 3️⃣ ❕ | [charba](https://github.com/pepstock-org/Charba) | GWT/J2CL
+  2️⃣ 3️⃣ 4️⃣ | [charba](https://github.com/pepstock-org/Charba) | GWT/J2CL
   2️⃣ ❕ ❕ | [chart.java](https://github.com/mdewilde/chart/) | Java
   2️⃣ ❕ ❕ | [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) | OCaml
   ❕ 3️⃣ 4️⃣ | [chart-js-rs](https://github.com/Billy-Sheppard/chart-js-rs) | Chart.js types API in Rust (WIP in Alpha/incomplete)
