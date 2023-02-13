@@ -58,7 +58,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 
   Support | Name | Description
   -- | -- | --
-  2️⃣ 3️⃣ 4️⃣ | [annotation](https://github.com/chartjs/chartjs-plugin-annotation) | Draws lines and boxes on the chart area
+  2️⃣ 3️⃣ 4️⃣ | [annotation](https://github.com/chartjs/chartjs-plugin-annotation) | Draws lines, boxes, points, labels, polygons and ellipses on the chart area
   2️⃣ 3️⃣ ❕ | [crosshair](https://github.com/abelheinsbroek/chartjs-plugin-crosshair) | Adds a data crosshair to line and scatter charts
   2️⃣ 3️⃣ 4️⃣ | [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) | Displays labels on data for any type of charts
   2️⃣ 3️⃣ 4️⃣ | [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) | Adds hierarchical scales that can be collapsed, expanded, and focused
