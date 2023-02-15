@@ -111,6 +111,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   Support | Name | Description
   -- | -- | --
   ❕ 3️⃣ ❕ | [BlazorChartjs](https://github.com/erossini/BlazorChartjs) | Blazor
+  ❕ 3️⃣ 4️⃣ | [pax.BlazorChartJs](https://github.com/ipax77/pax.BlazorChartJs) | Blazor (with [JavaScript isolation](https://learn.microsoft.com/en-us/aspnet/core/blazor/javascript-interoperability/?view=aspnetcore-6.0#javascript-isolation-in-javascript-modules-1))
   2️⃣ 3️⃣ 4️⃣ | [charba](https://github.com/pepstock-org/Charba) | GWT/J2CL
   2️⃣ ❕ ❕ | [chart.java](https://github.com/mdewilde/chart/) | Java
   2️⃣ ❕ ❕ | [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) | OCaml
