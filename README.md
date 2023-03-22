@@ -89,6 +89,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   Support | Name | Description
   -- | -- | --
   2️⃣ 3️⃣ 4️⃣ | [date-fns](https://github.com/chartjs/chartjs-adapter-date-fns) | date-fns adapter
+  2️⃣ 3️⃣ 4️⃣ | [dayjs](https://github.com/bolstycjw/chartjs-adapter-dayjs-4) | dayjs adapter
   2️⃣ 3️⃣ 4️⃣ | [luxon](https://github.com/chartjs/chartjs-adapter-luxon) | Luxon adapter
   2️⃣ 3️⃣ 4️⃣ | [moment](https://github.com/chartjs/chartjs-adapter-moment) | Moment.js adapter
   ❕ 3️⃣ 4️⃣ | [spacetime](https://github.com/nfinished/chartjs-adapter-spacetime) | Spacetime adapter
