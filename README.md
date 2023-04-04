@@ -70,6 +70,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 
   Support | Name | Description
   -- | -- | --
+  ! ! 4️⃣ | [a11y-legend](https://github.com/julianna-langston/chartjs-plugin-a11y-legend) | Provides keyboard accessibility for chart legends 
   ! 3️⃣ 4️⃣ | [chart2music](https://github.com/julianna-langston/chartjs2music) | Enhances chart accessibility with keyboard navigation and sonification 
   2️⃣ 3️⃣ 4️⃣ | [deferred](https://github.com/chartjs/chartjs-plugin-deferred) | Defers initial chart update until chart scrolls into viewport
   2️⃣ 3️⃣ ❕ | [dragdata](https://github.com/chrispahm/chartjs-plugin-dragdata) | Lets users drag data points on the chart
