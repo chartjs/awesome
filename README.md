@@ -125,9 +125,12 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   2️⃣ ❕ ❕ | [nova-chartjs](https://github.com/coroo/nova-chartjs) | Laravel Nova
   2️⃣ 3️⃣ 4️⃣ | [quickchart](https://github.com/typpo/quickchart) | Web API for static charts
   2️⃣ ❕ ❕ | [wicked-charts](https://github.com/adessoAG/wicked-charts)
+  ❕ 3️⃣ 4️⃣ | [BootstrapCharts](https://mdbootstrap.com/docs/standard/data/charts/) | Bootstrap
+
 
 ## Tools
 
   Support | Name | Description
   -- | -- | --
   ❕ 3️⃣ ❕ | [xhub](https://github.com/nschloe/xhub) | Browser extension for Chart.js (and more) on GitHub pages
+
