@@ -106,6 +106,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   2️⃣ 3️⃣ 4️⃣ | [ng2-charts](https://github.com/valor-software/ng2-charts) | Angular v2+
   2️⃣ 3️⃣ ❕ | [omi-chart](https://github.com/Tencent/omi/tree/master/components/chart) | Omi
   2️⃣ 3️⃣ 4️⃣ | [react-chartjs-2](https://github.com/jerairrest/react-chartjs-2) | React
+  ❕ 3️⃣ 4️⃣ | [solid-chartjs](https://github.com/s0ftik3/solid-chartjs) | SolidJs
   ❕ 3️⃣ 4️⃣ | [svelte-chartjs](https://github.com/SauravKanchan/svelte-chartjs) | Svelte
   2️⃣ 3️⃣ 4️⃣ | [vue-chartjs](https://github.com/apertureless/vue-chartjs/) | Vue.js
 
