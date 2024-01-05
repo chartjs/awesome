@@ -126,7 +126,8 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   2️⃣ ❕ ❕ | [liquify](https://github.com/sakos95/liquify) | Fast, multi-threaded visualization of stream data with Angular
   2️⃣ ❕ ❕ | [nova-chartjs](https://github.com/coroo/nova-chartjs) | Laravel Nova
   2️⃣ 3️⃣ 4️⃣ | [quickchart](https://github.com/typpo/quickchart) | Web API for static charts
-  2️⃣ ❕ ❕ | [wicked-charts](https://github.com/adessoAG/wicked-charts)
+  2️⃣ ❕ ❕ | [wicked-charts](https://github.com/adessoAG/wicked-charts) | Wrapper for Java web apps
+  ❕ 3️⃣ ❕ | [symfony/ux-chartjs](https://github.com/symfony/ux-chartjs) | Symfony UX bundle
 
 ## Tools
 
