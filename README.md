@@ -65,6 +65,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   2️⃣ 3️⃣ 4️⃣ | [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) | Adds hierarchical scales that can be collapsed, expanded, and focused
   2️⃣ ❕ ❕ | [regression](https://github.com/pomgui/chartjs-plugin-regression) | Calculate and draw statistical regressions (trend lines)
   2️⃣ ❕ ❕ | [waterfall](https://github.com/everestate/chartjs-plugin-waterfall) | Enables easy use of waterfall charts
+  ❕ 3️⃣ ❕ | [texaxes](https://github.com/karlis-vagalis/chartjs-plugin-texaxes) | TeX style axes titles
 
 ### Interactions
 
