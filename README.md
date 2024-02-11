@@ -123,6 +123,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   2️⃣ ❕ ❕ | [django-chartjs](https://github.com/peopledoc/django-chartjs) | Django
   &nbsp; | [figma](https://www.figma.com/community/file/1111335120507995139) | Design components
   2️⃣ 3️⃣ 4️⃣ | [ipychart](https://github.com/nicohlr/ipychart) | Python
+  2️⃣ 3️⃣ 4️⃣ | [laravel-chartjs](https://github.com/icehouse-ventures/laravel-chartjs) | Laravel
   2️⃣ ❕ ❕ | [liquify](https://github.com/sakos95/liquify) | Fast, multi-threaded visualization of stream data with Angular
   2️⃣ ❕ ❕ | [nova-chartjs](https://github.com/coroo/nova-chartjs) | Laravel Nova
   2️⃣ 3️⃣ 4️⃣ | [quickchart](https://github.com/typpo/quickchart) | Web API for static charts
