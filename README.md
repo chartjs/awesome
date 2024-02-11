@@ -118,6 +118,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   ❕ 3️⃣ 4️⃣ | [pax.BlazorChartJs](https://github.com/ipax77/pax.BlazorChartJs) | Blazor (with [JavaScript isolation](https://learn.microsoft.com/en-us/aspnet/core/blazor/javascript-interoperability/?view=aspnetcore-6.0#javascript-isolation-in-javascript-modules-1))
   2️⃣ 3️⃣ 4️⃣ | [charba](https://github.com/pepstock-org/Charba) | GWT/J2CL
   2️⃣ ❕ ❕ | [chart.java](https://github.com/mdewilde/chart/) | Java
+  ❕ ❕ 4️⃣ | [chartjs-java-model](https://github.com/xdev-software/chartjs-java-model) | Java
   2️⃣ ❕ ❕ | [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) | OCaml
   ❕ 3️⃣ 4️⃣ | [chart-js-rs](https://github.com/Billy-Sheppard/chart-js-rs) | Chart.js types API in Rust (WIP in Alpha/incomplete)
   2️⃣ ❕ ❕ | [django-chartjs](https://github.com/peopledoc/django-chartjs) | Django
