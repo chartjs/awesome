@@ -120,6 +120,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   2️⃣ ❕ ❕ | [chart.java](https://github.com/mdewilde/chart/) | Java
   ❕ ❕ 4️⃣ | [chartjs-java-model](https://github.com/xdev-software/chartjs-java-model) | Java
   2️⃣ ❕ ❕ | [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) | OCaml
+  2️⃣ 3️⃣ ❕ | [chartjs-ror](https://github.com/airblade/chartjs-ror) | Ruby, simplifies using Chart.js in Rails views
   ❕ 3️⃣ 4️⃣ | [chart-js-rs](https://github.com/Billy-Sheppard/chart-js-rs) | Chart.js types API in Rust (WIP in Alpha/incomplete)
   2️⃣ ❕ ❕ | [django-chartjs](https://github.com/peopledoc/django-chartjs) | Django
   &nbsp; | [figma](https://www.figma.com/community/file/1111335120507995139) | Design components
