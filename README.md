@@ -63,6 +63,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   2️⃣ 3️⃣ ❕ | [crosshair](https://github.com/abelheinsbroek/chartjs-plugin-crosshair) | Adds a data crosshair to line and scatter charts
   2️⃣ 3️⃣ 4️⃣ | [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) | Displays labels on data for any type of charts
   2️⃣ 3️⃣ 4️⃣ | [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) | Adds hierarchical scales that can be collapsed, expanded, and focused
+  ❕ ❕ 4️⃣ | [image-label](https://github.com/yunusemrejs/chartjs-image-label) | Displays image labels on data for doughnut charts
   2️⃣ ❕ ❕ | [regression](https://github.com/pomgui/chartjs-plugin-regression) | Calculate and draw statistical regressions (trend lines)
   2️⃣ ❕ ❕ | [waterfall](https://github.com/everestate/chartjs-plugin-waterfall) | Enables easy use of waterfall charts
 
