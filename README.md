@@ -67,6 +67,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   2️⃣ 3️⃣ 4️⃣ | [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) | Adds hierarchical scales that can be collapsed, expanded, and focused
   ❕ ❕ 4️⃣ | [image-label](https://github.com/yunusemrejs/chartjs-image-label) | Displays image labels on data for doughnut charts
   2️⃣ ❕ ❕ | [regression](https://github.com/pomgui/chartjs-plugin-regression) | Calculate and draw statistical regressions (trend lines)
+  ❕ ❕ 4️⃣ | [trendline](https://github.com/Makanz/chartjs-plugin-trendline) | Draw trend lines
   2️⃣ ❕ ❕ | [waterfall](https://github.com/everestate/chartjs-plugin-waterfall) | Enables easy use of waterfall charts
 
 ### Interactions
