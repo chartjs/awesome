@@ -107,6 +107,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   Support | Name | Description
   -- | -- | --
   2️⃣ ❕ ❕ | [ember-cli-chart](https://github.com/aomran/ember-cli-chart) | Ember CLI
+  ❕ ❕ 4️⃣ | [fresh_charts](https://github.com/denoland/fresh_charts) | Fresh
   2️⃣ ❕ ❕ | [lwcc](https://github.com/SalesforceLabs/LightningWebChartJS) | Lightning Web Component
   2️⃣ 3️⃣ 4️⃣ | [ng2-charts](https://github.com/valor-software/ng2-charts) | Angular v2+
   2️⃣ 3️⃣ ❕ | [omi-chart](https://github.com/Tencent/omi/tree/master/components/chart) | Omi
