@@ -114,6 +114,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   ❕ 3️⃣ 4️⃣ | [solid-chartjs](https://github.com/s0ftik3/solid-chartjs) | SolidJs
   ❕ 3️⃣ 4️⃣ | [svelte-chartjs](https://github.com/SauravKanchan/svelte-chartjs) | Svelte
   2️⃣ 3️⃣ 4️⃣ | [vue-chartjs](https://github.com/apertureless/vue-chartjs/) | Vue.js
+  ❕ ❕ 4️⃣ | [fresh_charts](https://github.com/denoland/fresh_charts) | Fresh
 
 ### Others
 
