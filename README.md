@@ -54,7 +54,8 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   ❕ 3️⃣ 4️⃣ | [gradient](https://github.com/kurkle/chartjs-plugin-gradient) | Easy gradients
   2️⃣ ❕ ❕ | [rough](https://github.com/nagix/chartjs-plugin-rough) | Draws charts in a sketchy, hand-drawn-like style using Rough.js
   2️⃣ ❕ ❕ | [style](https://github.com/nagix/chartjs-plugin-style) | Provides styling options such as shadow, bevel, glow or overlay effects
-
+  ❕ ❕ 4️⃣ | [timestack](https://github.com/jkmnt/chartjs-scale-timestack) | Adds opinionated time scale formatting with "nice" time divisions
+  
 ### Features
 
   Support | Name | Description
@@ -62,8 +63,12 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   2️⃣ 3️⃣ 4️⃣ | [annotation](https://github.com/chartjs/chartjs-plugin-annotation) | Draws lines, boxes, points, labels, polygons and ellipses on the chart area
   2️⃣ 3️⃣ ❕ | [crosshair](https://github.com/abelheinsbroek/chartjs-plugin-crosshair) | Adds a data crosshair to line and scatter charts
   2️⃣ 3️⃣ 4️⃣ | [datalabels](https://github.com/chartjs/chartjs-plugin-datalabels) | Displays labels on data for any type of charts
+  2️⃣ ❕ ❕ | [doughnutlabel](https://github.com/ciprianciurea/chartjs-plugin-doughnutlabel) | Display a text label in the center of a doughnut chart
   2️⃣ 3️⃣ 4️⃣ | [hierarchical](https://github.com/sgratzl/chartjs-plugin-hierarchical) | Adds hierarchical scales that can be collapsed, expanded, and focused
+  ❕ ❕ 4️⃣ | [image-label](https://github.com/yunusemrejs/chartjs-image-label) | Displays image labels on data for doughnut charts
+  2️⃣ ❕ ❕ | [piechart-outlabels](https://github.com/mykola-digtiar/chartjs-plugin-piechart-outlabels) | Displays labels outside a pie/doughnut chart
   2️⃣ ❕ ❕ | [regression](https://github.com/pomgui/chartjs-plugin-regression) | Calculate and draw statistical regressions (trend lines)
+  ❕ ❕ 4️⃣ | [trendline](https://github.com/Makanz/chartjs-plugin-trendline) | Draw trend lines
   2️⃣ ❕ ❕ | [waterfall](https://github.com/everestate/chartjs-plugin-waterfall) | Enables easy use of waterfall charts
 
 ### Interactions
@@ -73,7 +78,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   ❕ ❕ 4️⃣ | [a11y-legend](https://github.com/julianna-langston/chartjs-plugin-a11y-legend) | Provides keyboard accessibility for chart legends 
   ❕ 3️⃣ 4️⃣ | [chart2music](https://github.com/julianna-langston/chartjs2music) | Enhances chart accessibility with keyboard navigation and sonification 
   2️⃣ 3️⃣ 4️⃣ | [deferred](https://github.com/chartjs/chartjs-plugin-deferred) | Defers initial chart update until chart scrolls into viewport
-  2️⃣ 3️⃣ ❕ | [dragdata](https://github.com/chrispahm/chartjs-plugin-dragdata) | Lets users drag data points on the chart
+  2️⃣ 3️⃣ 4️⃣ | [dragdata](https://github.com/artus9033/chartjs-plugin-dragdata) | Lets users drag data points on the chart
   2️⃣ 3️⃣ 4️⃣ | [zoom](https://github.com/chartjs/chartjs-plugin-zoom) | Enables zooming and panning on charts
 
 ### Data Sources
@@ -102,6 +107,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   Support | Name | Description
   -- | -- | --
   2️⃣ ❕ ❕ | [ember-cli-chart](https://github.com/aomran/ember-cli-chart) | Ember CLI
+  ❕ ❕ 4️⃣ | [fresh_charts](https://github.com/denoland/fresh_charts) | Fresh
   2️⃣ ❕ ❕ | [lwcc](https://github.com/SalesforceLabs/LightningWebChartJS) | Lightning Web Component
   2️⃣ 3️⃣ 4️⃣ | [ng2-charts](https://github.com/valor-software/ng2-charts) | Angular v2+
   2️⃣ 3️⃣ ❕ | [omi-chart](https://github.com/Tencent/omi/tree/master/components/chart) | Omi
@@ -121,6 +127,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   ❕ ❕ 4️⃣ | [chartjs-java-model](https://github.com/xdev-software/chartjs-java-model) | Java
   2️⃣ ❕ ❕ | [chartjs-ocaml](https://github.com/monstasat/chartjs-ocaml) | OCaml
   2️⃣ ❕ ❕ | [chart-js-rails](https://github.com/coderbydesign/chart-js-rails) | Ruby, integrates Chart.js into Rails asset pipeline
+  2️⃣ 3️⃣ ❕ | [chartjs-ror](https://github.com/airblade/chartjs-ror) | Ruby, simplifies using Chart.js in Rails views
   ❕ 3️⃣ 4️⃣ | [chart-js-rs](https://github.com/Billy-Sheppard/chart-js-rs) | Chart.js types API in Rust (WIP in Alpha/incomplete)
   2️⃣ ❕ ❕ | [django-chartjs](https://github.com/peopledoc/django-chartjs) | Django
   &nbsp; | [figma](https://www.figma.com/community/file/1111335120507995139) | Design components
@@ -130,7 +137,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   2️⃣ ❕ ❕ | [nova-chartjs](https://github.com/coroo/nova-chartjs) | Laravel Nova
   2️⃣ 3️⃣ 4️⃣ | [quickchart](https://github.com/typpo/quickchart) | Web API for static charts
   2️⃣ ❕ ❕ | [wicked-charts](https://github.com/adessoAG/wicked-charts) | Wrapper for Java web apps
-  ❕ 3️⃣ ❕ | [symfony/ux-chartjs](https://github.com/symfony/ux-chartjs) | Symfony UX bundle
+  ❕ 3️⃣ 4️⃣ | [symfony/ux-chartjs](https://github.com/symfony/ux-chartjs) | Symfony UX bundle
 
 ## Tools
 
