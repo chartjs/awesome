@@ -137,6 +137,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   2️⃣ 3️⃣ 4️⃣ | [quickchart](https://github.com/typpo/quickchart) | Web API for static charts
   2️⃣ ❕ ❕ | [wicked-charts](https://github.com/adessoAG/wicked-charts) | Wrapper for Java web apps
   ❕ 3️⃣ 4️⃣ | [symfony/ux-chartjs](https://github.com/symfony/ux-chartjs) | Symfony UX bundle
+  4️⃣ ❕ ❕ | [RazorKit.ChartJs](https://ekondur.github.io/RazorKit/chartjs) | HTML Helper for Asp.Net MVC
 
 ## Tools
 
