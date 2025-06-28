@@ -45,6 +45,9 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
 
 ## Plugins
 
+- [interaction-tools](https://github.com/NVital14/chartjs-plugin-interaction-tools) - Drag data points and draw freeform trails directly on charts.
+
+
 ### Styling
 
   Support | Name | Description
