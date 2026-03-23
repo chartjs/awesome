@@ -102,6 +102,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
   2️⃣ 3️⃣ 4️⃣ | [luxon](https://github.com/chartjs/chartjs-adapter-luxon) | Luxon adapter
   2️⃣ 3️⃣ 4️⃣ | [moment](https://github.com/chartjs/chartjs-adapter-moment) | Moment.js adapter
   ❕ 3️⃣ 4️⃣ | [spacetime](https://github.com/nfinished/chartjs-adapter-spacetime) | Spacetime adapter
+  ❕ ❕ 4️⃣ | [temporal](https://github.com/schummar/chartjs-adapter-temporal) | Javascript Temporal API
 
 ## Integrations
 
