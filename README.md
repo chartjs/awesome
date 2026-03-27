@@ -80,6 +80,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   2️⃣ 3️⃣ 4️⃣ | [deferred](https://github.com/chartjs/chartjs-plugin-deferred) | Defers initial chart update until chart scrolls into viewport
   2️⃣ 3️⃣ 4️⃣ | [dragdata](https://github.com/artus9033/chartjs-plugin-dragdata) | Lets users drag data points on the chart
   ❕ ❕ 4️⃣ | [interaction-tools](https://github.com/NVital14/chartjs-plugin-interaction-tools) |  Drag data points and draw freeform trails directly on charts.
+  ❕ 3️⃣ 4️⃣ | [scrollbar-zoom](https://github.com/OdysseyAB/chartjs-plugin-scrollbar-zoom) | Adds visual scrollbar controls with draggable handles for zooming and panning
   ❕ 3️⃣ 4️⃣ | [select-drag](https://github.com/01CodeLT/chartjs-plugin-selectdrag) | Drag across charts to select an axis range
   2️⃣ 3️⃣ 4️⃣ | [zoom](https://github.com/chartjs/chartjs-plugin-zoom) | Enables zooming and panning on charts
 
