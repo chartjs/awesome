@@ -50,7 +50,7 @@ A curated list of awesome things related to [Chart.js](https://www.chartjs.org)
   Support | Name | Description
   -- | -- | --
   ❕ 3️⃣ 4️⃣ | [autocolors](https://github.com/kurkle/chartjs-plugin-autocolors) | Automatic color generation
-  2️⃣ ❕ ❕ | [colorschemes](https://github.com/nagix/chartjs-plugin-colorschemes) | Enables automatic coloring using predefined color schemes
+  2️⃣ 3️⃣ 4️⃣ | [colorschemes](https://github.com/MaximBelov/chartjs-plugin-colorschemes) | Enables automatic coloring using predefined color schemes
   ❕ 3️⃣ 4️⃣ | [gradient](https://github.com/kurkle/chartjs-plugin-gradient) | Easy gradients
   2️⃣ ❕ ❕ | [rough](https://github.com/nagix/chartjs-plugin-rough) | Draws charts in a sketchy, hand-drawn-like style using Rough.js
   2️⃣ ❕ ❕ | [style](https://github.com/nagix/chartjs-plugin-style) | Provides styling options such as shadow, bevel, glow or overlay effects
