@@ -124,7 +124,7 @@ In addition, many plugins can be found on the [npm registry](https://www.npmjs.c
 
   Support | Name | Description
   -- | -- | --
-  ❕ ❕ 4️⃣ | [BlazorExpress.ChartJS](https://github.com/BlazorExpress/BlazorExpress.ChartJS) | The `BlazorExpress.ChartJs` component library is a production-ready library built on the Blazor and Chart.js JavaScript library.
+    ❕ ❕ 4️⃣ | [BlazorExpress.ChartJS](https://github.com/BlazorExpress/BlazorExpress.ChartJS) | Production-ready Blazor component library
   ❕ 3️⃣ ❕ | [BlazorChartjs](https://github.com/erossini/BlazorChartjs) | Blazor
   ❕ 3️⃣ 4️⃣ | [pax.BlazorChartJs](https://github.com/ipax77/pax.BlazorChartJs) | Blazor (with [JavaScript isolation](https://learn.microsoft.com/en-us/aspnet/core/blazor/javascript-interoperability/?view=aspnetcore-6.0#javascript-isolation-in-javascript-modules-1))
   2️⃣ 3️⃣ 4️⃣ | [charba](https://github.com/pepstock-org/Charba) | GWT/J2CL
